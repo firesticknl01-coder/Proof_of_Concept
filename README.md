@@ -1,4 +1,4 @@
-ked, # README
+# README
 
 This is the readme file for this workspace.
 This file automatically executed and opened in the editor window of VSCode.
